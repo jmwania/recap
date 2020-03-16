@@ -1,0 +1,4 @@
+{
+  "tests/test_binary.py::test_first": true, 
+  "tests/test_binary_ver1.py": true
+}
